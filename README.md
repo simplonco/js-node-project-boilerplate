@@ -96,7 +96,7 @@ La ligne de commande final pourrait ressembler à ça:
 
       ```
       
-      npm i -s minimist write mkdirp executive opn chalk
+      npm i -s meow write mkdirp executive opn chalk
 
       ```
 
