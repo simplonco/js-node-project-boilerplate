@@ -1,15 +1,15 @@
 # js-node-project-boilerplate
 Apprendre à se servir de npm et de nodejs
 
-*** BUT : Faire un génèrateur de projet ***
+## Faire un génèrateur de projet
 
-Faire un programme qui génère un dossier de projet complet en éxécutant une ligne de commande
+**BUT :** Faire un programme qui génère un dossier de projet complet en éxécutant une ligne de commande
 
 La ligne de commande final pourrait ressembler à ça:
 
 **```node monprogram.js chemindudossier```**
 
-**Le dossier doit contenir :**
+### Le dossier doit contenir :
 * un dossier js
 * un dossier css
 * un fichier index.html
@@ -18,7 +18,7 @@ La ligne de commande final pourrait ressembler à ça:
 
 NB : vous pouvez adapter votre arborescence à vos besoin quotidien.
 
-**Librairies internes utiles :**
+### Librairies internes utiles :
 
 > *ces librairies sont internes, c'est à dire qu'elles sont présentes dans le 'core' de nodejs*
 
@@ -30,7 +30,7 @@ NB : vous pouvez adapter votre arborescence à vos besoin quotidien.
 
 NB : Cette liste est à titre indicatif. D'ailleurs la plupart des packages présent dans cette liste peuvent remplacer par les packages externes ci-dessous.
 
-**Librairies externes utiles :**
+### Librairies externes utiles :
 
 > *ces librairies sont externes, c'est à dire que vous devez installer ses libs via npm install ...*
 
@@ -43,7 +43,7 @@ NB : Cette liste est à titre indicatif. D'ailleurs la plupart des packages pré
 
 NB : Cette liste est à titre indicatif. Lisez bien leurs description et éventuellement leur documentation afin de comprendre à quoi elles pourrait vous servir dans la réalisation du présent exercice.
 
-** Les étapes : **
+### Les étapes : 
 
   1. créer votre projet sur github OU bitbucket
     * avec un README.md
