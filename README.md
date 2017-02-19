@@ -34,7 +34,7 @@ La ligne de commande final pourrait ressembler à ça:
 
 > *ces librairies sont externes, c'est à dire que vous devez installer ses libs via npm install ...*
 
-* https://github.com/substack/minimist
+* https://github.com/substack/minimist OU https://github.com/sindresorhus/meow
 * https://github.com/jonschlinkert/write
 * https://github.com/substack/node-mkdirp
 * https://github.com/zeekay/executive
@@ -102,4 +102,8 @@ La ligne de commande final pourrait ressembler à ça:
 
   10. écrivez votre programme
   
-  11. Une fois satisfait de votre programme, vous pouvez faire **npm link** afin de pouvoir votre ligne de commande de façon globale. Par exemple, considérant que le package name de votre program s'appelle "simplegenerator", vous pourrez simplement appele
+  11. Une fois satisfait de votre programme, vous pouvez ajouter la clé 'bin' à votre package.json et éxécuter la commande **npm link** afin de pouvoir utiliser votre ligne de commande de façon globale. Par exemple, considérant que le package name de votre program s'appelle "simplegenerator", vous pourrez simplement éxécuter la commande :
+  
+ ```simplegenerator myprojectname```
+ 
+ 
