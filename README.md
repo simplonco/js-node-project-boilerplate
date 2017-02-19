@@ -101,3 +101,5 @@ La ligne de commande final pourrait ressembler à ça:
       ```
 
   10. écrivez votre programme
+  
+  11. Une fois satisfait de votre programme, vous pouvez faire **npm link** afin de pouvoir votre ligne de commande de façon globale. Par exemple, considérant que le package name de votre program s'appelle "simplegenerator", vous pourrez simplement appele
