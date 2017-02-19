@@ -16,7 +16,7 @@ La ligne de commande final pourrait ressembler à ça:
 * un fichier js/index.js
 * un fichier css/style.css
 
-NB : vous pouvez adapter votre arborescence à vos besoin quotidien.
+**NB :** *vous pouvez adapter votre arborescence à vos besoin quotidien.*
 
 ### Librairies internes utiles :
 
@@ -28,7 +28,7 @@ NB : vous pouvez adapter votre arborescence à vos besoin quotidien.
 * [fs](https://nodejs.org/api/fs.html)
 * [globals](https://nodejs.org/api/globals.html)
 
-NB : Cette liste est à titre indicatif. D'ailleurs la plupart des packages présent dans cette liste peuvent remplacer par les packages externes ci-dessous.
+**NB :** *Cette liste est à titre indicatif. D'ailleurs la plupart des packages présent dans cette liste peuvent remplacer par les packages externes ci-dessous.*
 
 ### Librairies externes utiles :
 
@@ -41,7 +41,7 @@ NB : Cette liste est à titre indicatif. D'ailleurs la plupart des packages pré
 * https://github.com/sindresorhus/opn
 * https://github.com/chalk/chalk (pour les couleurs)
 
-NB : Cette liste est à titre indicatif. Lisez bien leurs description et éventuellement leur documentation afin de comprendre à quoi elles pourrait vous servir dans la réalisation du présent exercice.
+**NB :** *Cette liste est à titre indicatif. Lisez bien leurs description et éventuellement leur documentation afin de comprendre à quoi elles pourrait vous servir dans la réalisation du présent exercice.*
 
 ### Les étapes : 
 
